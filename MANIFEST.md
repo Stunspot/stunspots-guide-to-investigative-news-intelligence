@@ -4,6 +4,11 @@ Generated: 2026-06-28T23:22:07+00:00
 Release: 1.0  
 Source directory: Local build source directory omitted from public release. Source filenames and generated repo paths are preserved below.
 
+## Citation and Archive
+
+**DOI:** https://doi.org/10.5281/zenodo.21039246
+**Zenodo Record:** https://zenodo.org/records/21039246
+
 ## Public Positioning
 
 *Stunspot's Guide to Investigative News Intelligence* is a model-facing canon for investigative news intelligence, evidence reasoning, public-reality mapping, source topology, narrative-operation analysis, and bounded inference under partial observability.

@@ -11,6 +11,7 @@
 ![Compiled packs](https://img.shields.io/badge/compiled_packs-4-blueviolet)
 ![Omnibus](https://img.shields.io/badge/omnibus-1-informational)
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-darkgrey)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21039246.svg)](https://doi.org/10.5281/zenodo.21039246)
 
 *Stunspot's Guide to Investigative News Intelligence* is a Markdown-native knowledge repository by Sam “stunspot” Walker, built primarily for AI/RAG ingestion rather than casual browsing.
 
