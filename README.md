@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./docs/assets/brand/readme-hero.png" alt="Stunspot's Guide to Investigative News Intelligence — A practical canon for investigative news intelligence knowledge, reasoning, and AI/RAG use.">
+  <img src="./docs/assets/brand/readme-hero.png" alt="Stunspot's Guide to Investigative News Intelligence — A model-facing canon for investigative news intelligence, evidence reasoning, public-reality mapping, and AI/RAG use.">
 </p>
 
 # Stunspot's Guide to Investigative News Intelligence
