@@ -6,7 +6,7 @@ It is not a public-facing canon document and does not replace MANIFEST.md.
 ## Canon Metadata
 
 - Title: Stunspot's Guide to Investigative News Intelligence
-- Subtitle: A practical canon for investigative news intelligence knowledge, reasoning, and AI/RAG use.
+- Subtitle: A model-facing canon for investigative news intelligence, evidence reasoning, public-reality mapping, and AI/RAG use.
 - Short name: Investigative News Intelligence
 - Slug: investigative-news-intelligence
 - Repo name: stunspots-guide-to-investigative-news-intelligence
