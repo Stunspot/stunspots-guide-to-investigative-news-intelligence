@@ -10,7 +10,7 @@
 ![Source reports](https://img.shields.io/badge/source_reports-10-blue)
 ![Compiled packs](https://img.shields.io/badge/compiled_packs-4-blueviolet)
 ![Omnibus](https://img.shields.io/badge/omnibus-1-informational)
-![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-darkgrey)
+![License: CC BY 4.0](https://img.shields.io/badge/license-CC_BY_4.0-darkgrey)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21039246.svg)](https://doi.org/10.5281/zenodo.21039246)
 
 *Stunspot's Guide to Investigative News Intelligence* is a Markdown-native knowledge repository by Sam “stunspot” Walker, built primarily for AI/RAG ingestion rather than casual browsing.
@@ -165,7 +165,7 @@ Reserved image references are intentionally retained for later brand assets: `do
 
 Version: **1.0**  
 Released: **2026-06-28**  
-License: **CC BY-NC-SA 4.0**  
+License: **Creative Commons Attribution 4.0 International**  
 Author: **Sam “stunspot” Walker / Collaborative Dynamics**
 
 GitHub: https://github.com/Stunspot/stunspots-guide-to-investigative-news-intelligence  
@@ -175,6 +175,6 @@ Pages URL: https://stunspot.github.io/stunspots-guide-to-investigative-news-inte
 
 ## License and Use
 
-Unless otherwise stated, this repository is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** (**CC BY-NC-SA 4.0**). Commercial use requires prior written permission from Sam “stunspot” Walker / Collaborative Dynamics.
+Unless otherwise stated, this repository is licensed under **Creative Commons Attribution 4.0 International** (**CC BY 4.0**). Commercial use is allowed with attribution; do not imply endorsement by Sam “stunspot” Walker / Collaborative Dynamics.
 
 These materials are provided as-is for educational, research, design, and reference use. Verify high-impact claims before relying on them.
