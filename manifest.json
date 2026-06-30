@@ -9,7 +9,7 @@
     "date_released": "2026-06-28",
     "author": "Sam \"stunspot\" Walker",
     "affiliation": "Collaborative Dynamics",
-    "license": "CC BY-NC-SA 4.0",
+    "license": "Creative Commons Attribution 4.0 International",
     "primary_audience": "AI/RAG systems, long-context workspaces, model-facing project knowledge, and investigative research workflows",
     "description": "A model-facing investigative news intelligence canon for evidence reasoning, public-reality mapping, source topology, narrative-operation analysis, and bounded inference under partial observability.",
     "github_url": "https://github.com/Stunspot/stunspots-guide-to-investigative-news-intelligence",
@@ -20,9 +20,7 @@
     "knowledge-packs/by-report": "Individual source-report corpus.",
     "knowledge-packs/compiled-packs": "Grouped upload packs for AI/RAG workflows.",
     "knowledge-packs/omnibus": "Whole-corpus bundle.",
-    "forbidden_or_unused": [
-      "docs/reports/"
-    ]
+    "forbidden_or_unused": ["docs/reports/"]
   },
   "counts": {
     "source_reports": 10,
@@ -30,194 +28,9 @@
     "omnibus_files": 1,
     "unclassified_files": 0
   },
-  "corpus": {
-    "generated_at": "2026-06-28T23:22:07+00:00",
-    "source_directory_policy": "Local build source directory omitted from public release. Source filenames and generated repo paths are preserved below.",
-    "sequence_note": "The individual source-report directory contains A-J. The compiled and omnibus packs include the broader A-M sequence, including Vol. 4 K-M.",
-    "reports": [
-      {
-        "code": "A",
-        "title": "Reality Models, Event Ontology & Public-Reality Mapping",
-        "summary": "Defines ground reality, public reality, investigative event ontology, traces, evidence, silence, uncertainty, confidence, and reality projection.",
-        "source_filename": "A. Reality Models, Event Ontology & Public-Reality Mapping.md",
-        "source_path": "A. Reality Models, Event Ontology & Public-Reality Mapping.md",
-        "filename": "a-reality-models-event-ontology-and-public-reality-mapping.md",
-        "path": "knowledge-packs/by-report/a-reality-models-event-ontology-and-public-reality-mapping.md",
-        "size_bytes": 57836
-      },
-      {
-        "code": "B",
-        "title": "Signal, Evidence & Confidence Architecture",
-        "summary": "Builds the judgment stack for signal, evidence, source evaluation, corroboration, confidence ceilings, claim status, and inference.",
-        "source_filename": "B. Signal, Evidence & Confidence Architecture.md",
-        "source_path": "B. Signal, Evidence & Confidence Architecture.md",
-        "filename": "b-signal-evidence-and-confidence-architecture.md",
-        "path": "knowledge-packs/by-report/b-signal-evidence-and-confidence-architecture.md",
-        "size_bytes": 59888
-      },
-      {
-        "code": "C",
-        "title": "Information Ecosystems, Source Topologies & Platform Behavior",
-        "summary": "Maps information routing, origin nodes, source position, bridge nodes, amplification, platform affordances, mutation, stabilization, and resurfacing.",
-        "source_filename": "C. Information Ecosystems, Source Topologies & Platform Behavior.md",
-        "source_path": "C. Information Ecosystems, Source Topologies & Platform Behavior.md",
-        "filename": "c-information-ecosystems-source-topologies-and-platform-behavior.md",
-        "path": "knowledge-packs/by-report/c-information-ecosystems-source-topologies-and-platform-behavior.md",
-        "size_bytes": 63166
-      },
-      {
-        "code": "D",
-        "title": "Topic Discovery, Weak-Signal Detection & Story Emergence",
-        "summary": "Reframes topic discovery as emergence detection using weak signals, anomalies, recurrence, latent story objects, escalation thresholds, and kill criteria.",
-        "source_filename": "D. Topic Discovery, Weak-Signal Detection & Story Emergence.md",
-        "source_path": "D. Topic Discovery, Weak-Signal Detection & Story Emergence.md",
-        "filename": "d-topic-discovery-weak-signal-detection-and-story-emergence.md",
-        "path": "knowledge-packs/by-report/d-topic-discovery-weak-signal-detection-and-story-emergence.md",
-        "size_bytes": 65906
-      },
-      {
-        "code": "E",
-        "title": "Narrative Divergence, Coverage Gaps & Missingness Analysis",
-        "summary": "Interprets comparative rendering, expected-versus-observed visibility, benign and strategic missingness, selective omission, and narrative divergence.",
-        "source_filename": "E. Narrative Divergence, Coverage Gaps & Missingness Analysis.md",
-        "source_path": "E. Narrative Divergence, Coverage Gaps & Missingness Analysis.md",
-        "filename": "e-narrative-divergence-coverage-gaps-and-missingness-analysis.md",
-        "path": "knowledge-packs/by-report/e-narrative-divergence-coverage-gaps-and-missingness-analysis.md",
-        "size_bytes": 50964
-      },
-      {
-        "code": "F",
-        "title": "Thread Following, Link Expansion, and Investigative Graph Construction",
-        "summary": "Defines entrypoint nodes, next-hop prioritization, expansion operators, typed relations, directional asymmetry, edge status, and graph integrity.",
-        "source_filename": "F. Thread Following, Link Expansion, and Investigative Graph Construction.md",
-        "source_path": "F. Thread Following, Link Expansion, and Investigative Graph Construction.md",
-        "filename": "f-thread-following-link-expansion-and-investigative-graph-construction.md",
-        "path": "knowledge-packs/by-report/f-thread-following-link-expansion-and-investigative-graph-construction.md",
-        "size_bytes": 48674
-      },
-      {
-        "code": "G",
-        "title": "Temporal Dynamics, Trend Formation, and Story Evolution",
-        "summary": "Separates sequence from temporal meaning through investigative clocks, trigger events, substrate development, temporal regimes, phase transitions, and narrative pivots.",
-        "source_filename": "G. Temporal Dynamics, Trend Formation, and Story Evolution.md",
-        "source_path": "G. Temporal Dynamics, Trend Formation, and Story Evolution.md",
-        "filename": "g-temporal-dynamics-trend-formation-and-story-evolution.md",
-        "path": "knowledge-packs/by-report/g-temporal-dynamics-trend-formation-and-story-evolution.md",
-        "size_bytes": 52922
-      },
-      {
-        "code": "H",
-        "title": "Power, Incentives & Strategic Actor Analysis",
-        "summary": "Models actors as strategic nodes through incentives, leverage, dependency, control, alignment, coordination, and power geometry.",
-        "source_filename": "H. Power, Incentives & Strategic Actor Analysis.md",
-        "source_path": "H. Power, Incentives & Strategic Actor Analysis.md",
-        "filename": "h-power-incentives-and-strategic-actor-analysis.md",
-        "path": "knowledge-packs/by-report/h-power-incentives-and-strategic-actor-analysis.md",
-        "size_bytes": 64525
-      },
-      {
-        "code": "I",
-        "title": "Propaganda, Narrative Laundering & Information Operations",
-        "summary": "Analyzes narrative operations, seeding, routing, uptake, credibility laundering, false plurality, agenda manipulation, and memetic weaponization.",
-        "source_filename": "I. Propaganda, Narrative Laundering & Information Operations.md",
-        "source_path": "I. Propaganda, Narrative Laundering & Information Operations.md",
-        "filename": "i-propaganda-narrative-laundering-and-information-operations.md",
-        "path": "knowledge-packs/by-report/i-propaganda-narrative-laundering-and-information-operations.md",
-        "size_bytes": 67451
-      },
-      {
-        "code": "J",
-        "title": "Implied Reality, Causal Inference, and Unstated-Truth Extraction",
-        "summary": "Establishes bounded inference from incomplete evidence through causal pressure, abductive reasoning, knowledge-state inference, hidden constraints, and contradiction resolution.",
-        "source_filename": "J. Implied Reality, Causal Inference, and Unstated-Truth Extraction.md",
-        "source_path": "J. Implied Reality, Causal Inference, and Unstated-Truth Extraction.md",
-        "filename": "j-implied-reality-causal-inference-and-unstated-truth-extraction.md",
-        "path": "knowledge-packs/by-report/j-implied-reality-causal-inference-and-unstated-truth-extraction.md",
-        "size_bytes": 48534
-      }
-    ],
-    "compiled_packs": [
-      {
-        "label": "Investigative News Intelligence - Vol. 1 A-C Foundations of Reality, Signal, and Judgment",
-        "source_filename": "[KNOWLEDGE] - Investigative News Intelligence - Vol. 1 A-C Foundations of Reality, Signal, and Judgment.md",
-        "source_path": "[KNOWLEDGE] - Investigative News Intelligence - Vol. 1 A-C Foundations of Reality, Signal, and Judgment.md",
-        "dest_path": "knowledge-packs/compiled-packs/knowledge-investigative-news-intelligence-vol-1-a-c-foundations-of-reality-signal-and-judgment.md",
-        "size_bytes": 181433
-      },
-      {
-        "label": "Investigative News Intelligence - Vol. 2 D-G Discovery and Thread Expansion Domains",
-        "source_filename": "[KNOWLEDGE] - Investigative News Intelligence - Vol. 2 D-G Discovery and Thread Expansion Domains.md",
-        "source_path": "[KNOWLEDGE] - Investigative News Intelligence - Vol. 2 D-G Discovery and Thread Expansion Domains.md",
-        "dest_path": "knowledge-packs/compiled-packs/knowledge-investigative-news-intelligence-vol-2-d-g-discovery-and-thread-expansion-domains.md",
-        "size_bytes": 219177
-      },
-      {
-        "label": "Investigative News Intelligence - Vol. 3 H-J Interpretation and Adversarial Sensemaking",
-        "source_filename": "[KNOWLEDGE] - Investigative News Intelligence - Vol. 3 H-J Interpretation and Adversarial Sensemaking.md",
-        "source_path": "[KNOWLEDGE] - Investigative News Intelligence - Vol. 3 H-J Interpretation and Adversarial Sensemaking.md",
-        "dest_path": "knowledge-packs/compiled-packs/knowledge-investigative-news-intelligence-vol-3-h-j-interpretation-and-adversarial-sensemaking.md",
-        "size_bytes": 181063
-      },
-      {
-        "label": "Investigative News Intelligence - Vol. 4 K-M Editorial Control, Failure Diagnosis, and Execution",
-        "source_filename": "[KNOWLEDGE] - Investigative News Intelligence - Vol. 4 K-M Editorial Control, Failure Diagnosis, and Execution.md",
-        "source_path": "[KNOWLEDGE] - Investigative News Intelligence - Vol. 4 K-M Editorial Control, Failure Diagnosis, and Execution.md",
-        "dest_path": "knowledge-packs/compiled-packs/knowledge-investigative-news-intelligence-vol-4-k-m-editorial-control-failure-diagnosis-and-execution.md",
-        "size_bytes": 143282,
-        "sections": [
-          "K. Editorial Prioritization, Escalation Logic & Intervention Strategy",
-          "L. Failure Modes, Hallucinated Patterns & Analytical Breakdown",
-          "M. Analyst Workflows, Research Artifacts & Publication Systems"
-        ]
-      }
-    ],
-    "omnibus": [
-      {
-        "label": "Investigative News Intelligence - Omnibus",
-        "source_filename": "[KNOWLEDGE] - Investigative News Intelligence - Omnibus.md",
-        "source_path": "[KNOWLEDGE] - Investigative News Intelligence - Omnibus.md",
-        "dest_path": "knowledge-packs/omnibus/knowledge-investigative-news-intelligence-omnibus.md",
-        "size_bytes": 725065
-      }
-    ],
-    "unclassified": []
-  },
-  "repository_files": [
-    "README.md",
-    "LICENSE.md",
-    "CITATION.cff",
-    "CHANGELOG.md",
-    "COPY_CONTEXT.md",
-    "MANIFEST.md",
-    "STATUS.md",
-    "manifest.json",
-    "docs/index.md",
-    "docs/canon-map.md",
-    "docs/how-to-use-this-canon.md",
-    "docs/knowledge-packs.md",
-    "docs/_config.yml",
-    "docs/_layouts/default.html",
-    "docs/assets/css/style.css",
-    "docs/assets/brand/coldwire-bg.jpg",
-    "knowledge-packs/by-report/a-reality-models-event-ontology-and-public-reality-mapping.md",
-    "knowledge-packs/by-report/b-signal-evidence-and-confidence-architecture.md",
-    "knowledge-packs/by-report/c-information-ecosystems-source-topologies-and-platform-behavior.md",
-    "knowledge-packs/by-report/d-topic-discovery-weak-signal-detection-and-story-emergence.md",
-    "knowledge-packs/by-report/e-narrative-divergence-coverage-gaps-and-missingness-analysis.md",
-    "knowledge-packs/by-report/f-thread-following-link-expansion-and-investigative-graph-construction.md",
-    "knowledge-packs/by-report/g-temporal-dynamics-trend-formation-and-story-evolution.md",
-    "knowledge-packs/by-report/h-power-incentives-and-strategic-actor-analysis.md",
-    "knowledge-packs/by-report/i-propaganda-narrative-laundering-and-information-operations.md",
-    "knowledge-packs/by-report/j-implied-reality-causal-inference-and-unstated-truth-extraction.md",
-    "knowledge-packs/compiled-packs/knowledge-investigative-news-intelligence-vol-1-a-c-foundations-of-reality-signal-and-judgment.md",
-    "knowledge-packs/compiled-packs/knowledge-investigative-news-intelligence-vol-2-d-g-discovery-and-thread-expansion-domains.md",
-    "knowledge-packs/compiled-packs/knowledge-investigative-news-intelligence-vol-3-h-j-interpretation-and-adversarial-sensemaking.md",
-    "knowledge-packs/compiled-packs/knowledge-investigative-news-intelligence-vol-4-k-m-editorial-control-failure-diagnosis-and-execution.md",
-    "knowledge-packs/omnibus/knowledge-investigative-news-intelligence-omnibus.md"
-  ],
-  "reserved_asset_references": [
-    "docs/assets/brand/readme-hero.png",
-    "docs/assets/brand/pages-hero.png",
-    "docs/assets/brand/social-preview.png"
+  "source_authority_notes": [
+    "Source reports are the canonical individual units.",
+    "Compiled packs and omnibus files are convenience formats.",
+    "MANIFEST.md preserves source-to-output mapping details."
   ]
 }
