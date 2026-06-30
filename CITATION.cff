@@ -9,19 +9,15 @@ authors:
     affiliation: "Collaborative Dynamics"
 version: "1.0"
 date-released: "2026-06-28"
-license: "CC-BY-NC-SA-4.0"
+license: "CC-BY-4.0"
 doi: "10.5281/zenodo.21039246"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.21039246"
 url: "https://stunspot.github.io/stunspots-guide-to-investigative-news-intelligence/"
 repository-code: "https://github.com/Stunspot/stunspots-guide-to-investigative-news-intelligence"
-abstract: "A model-facing investigative news intelligence canon for AI/RAG systems, evidence reasoning, public-reality mapping, source topology, narrative-operation analysis, and bounded inference under partial observability."
+abstract: "A model-facing investigative news intelligence canon for AI/RAG knowledge workflows."
 keywords:
   - "investigative-news-intelligence"
-  - "evidence-reasoning"
-  - "public-reality-mapping"
-  - "source-topology"
-  - "information-operations"
-  - "rag"
   - "knowledge-systems"
+  - "rag"
