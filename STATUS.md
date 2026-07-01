@@ -12,7 +12,7 @@ Author: **Sam “stunspot” Walker / Collaborative Dynamics**
 
 Corpus inventory:
 
-- Source reports: **10**
+- Source reports: **13**
 - Compiled packs: **4**
 - Omnibus files: **1**
 
