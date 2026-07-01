@@ -25,7 +25,7 @@ The repository is human-readable, but it is primarily structured for AI/RAG inge
 
 ## Counts
 
-- Source reports: 10
+- Source reports: 13
 - Compiled packs: 4
 - Omnibus files: 1
 - Unclassified files: 0
@@ -42,6 +42,9 @@ The repository is human-readable, but it is primarily structured for AI/RAG inge
 - `H` — `H. Power, Incentives & Strategic Actor Analysis.md` → `knowledge-packs/by-report/h-power-incentives-and-strategic-actor-analysis.md`
 - `I` — `I. Propaganda, Narrative Laundering & Information Operations.md` → `knowledge-packs/by-report/i-propaganda-narrative-laundering-and-information-operations.md`
 - `J` — `J. Implied Reality, Causal Inference, and Unstated-Truth Extraction.md` → `knowledge-packs/by-report/j-implied-reality-causal-inference-and-unstated-truth-extraction.md`
+- `K` — `K. Editorial Prioritization, Escalation Logic & Intervention Strategy.md` → `knowledge-packs/by-report/k-editorial-prioritization-escalation-logic-and-intervention-strategy.md`
+- `L` — `L. Failure Modes, Hallucinated Patterns & Analytical Breakdown.md` → `knowledge-packs/by-report/l-failure-modes-hallucinated-patterns-and-analytical-breakdown.md`
+- `M` — `M. Analyst Workflows, Research Artifacts & Publication Systems.md` → `knowledge-packs/by-report/m-analyst-workflows-research-artifacts-and-publication-systems.md`
 
 ## Compiled Packs
 
@@ -49,8 +52,6 @@ The repository is human-readable, but it is primarily structured for AI/RAG inge
 - `[KNOWLEDGE] - Investigative News Intelligence - Vol. 2 D-G Discovery and Thread Expansion Domains.md` → `knowledge-packs/compiled-packs/knowledge-investigative-news-intelligence-vol-2-d-g-discovery-and-thread-expansion-domains.md`
 - `[KNOWLEDGE] - Investigative News Intelligence - Vol. 3 H-J Interpretation and Adversarial Sensemaking.md` → `knowledge-packs/compiled-packs/knowledge-investigative-news-intelligence-vol-3-h-j-interpretation-and-adversarial-sensemaking.md`
 - `[KNOWLEDGE] - Investigative News Intelligence - Vol. 4 K-M Editorial Control, Failure Diagnosis, and Execution.md` → `knowledge-packs/compiled-packs/knowledge-investigative-news-intelligence-vol-4-k-m-editorial-control-failure-diagnosis-and-execution.md`
-
-Vol. 4 contains K–M: Editorial Prioritization, Failure Modes, and Analyst Workflows. These sections are available through the compiled and omnibus packs rather than as individual source-report files under `knowledge-packs/by-report/`.
 
 ## Omnibus
 
@@ -77,5 +78,3 @@ Vol. 4 contains K–M: Editorial Prioritization, Failure Modes, and Analyst Work
 - `docs/_layouts/default.html` — default Pages layout and social metadata.
 - `docs/assets/css/style.css` — site styling.
 - `docs/assets/brand/coldwire-bg.jpg` — current site background image.
-
-Reserved image references for later brand assets are retained in public copy and site metadata: `docs/assets/brand/readme-hero.png`, `docs/assets/brand/pages-hero.png`, and `docs/assets/brand/social-preview.png`.
