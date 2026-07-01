@@ -7,7 +7,7 @@
 **A model-facing canon for investigative news intelligence, evidence reasoning, public-reality mapping, and AI/RAG use.**
 
 ![Status](https://img.shields.io/badge/status-release_1.0-darkgreen)
-![Source reports](https://img.shields.io/badge/source_reports-10-blue)
+![Source reports](https://img.shields.io/badge/source_reports-13-blue)
 ![Compiled packs](https://img.shields.io/badge/compiled_packs-4-blueviolet)
 ![Omnibus](https://img.shields.io/badge/omnibus-1-informational)
 ![License: CC BY 4.0](https://img.shields.io/badge/license-CC_BY_4.0-darkgrey)
@@ -48,11 +48,11 @@ Browse the full library:
 
 This release contains:
 
-- **10 source reports** in [`knowledge-packs/by-report/`](./knowledge-packs/by-report/)
+- **13 source reports** in [`knowledge-packs/by-report/`](./knowledge-packs/by-report/)
 - **4 compiled packs** in [`knowledge-packs/compiled-packs/`](./knowledge-packs/compiled-packs/)
 - **1 omnibus file** in [`knowledge-packs/omnibus/`](./knowledge-packs/omnibus/)
 
-The source-report directory currently contains the individual A–J reports. The full canon sequence represented in the compiled and omnibus packs runs A–M, with Vol. 4 covering K–M: editorial control, analytical failure diagnosis, and publication/workflow execution.
+The source-report directory now contains the individual **A-M** reports. The compiled packs preserve the same A-M canon sequence, with Vol. 4 covering K-M: editorial control, analytical failure diagnosis, and publication/workflow execution.
 
 `docs/` is the navigation and guidance layer for GitHub Pages. The individual report corpus lives in `knowledge-packs/by-report/`; grouped upload packs live in `knowledge-packs/compiled-packs/`; the full one-file bundle lives in `knowledge-packs/omnibus/`. This repository intentionally does **not** use `docs/reports/`.
 
@@ -75,7 +75,7 @@ It covers:
 - power, incentives, strategic actor analysis, dependency geometry, leverage, control, alignment, and coordination
 - propaganda, narrative laundering, information operations, credibility laundering, memetic weaponization, and agenda manipulation
 - implied reality, causal pressure, abductive inference, hidden constraints, knowledge-state inference, and contradiction resolution
-- editorial prioritization, escalation logic, analytical breakdowns, and research/publication workflow artifacts in the compiled canon packs
+- editorial prioritization, escalation logic, analytical failure diagnosis, and research/publication workflow artifacts
 
 ---
 
@@ -147,7 +147,10 @@ Use Stunspot's Guide to Investigative News Intelligence as a doctrine layer for 
     │   ├── g-temporal-dynamics-trend-formation-and-story-evolution.md
     │   ├── h-power-incentives-and-strategic-actor-analysis.md
     │   ├── i-propaganda-narrative-laundering-and-information-operations.md
-    │   └── j-implied-reality-causal-inference-and-unstated-truth-extraction.md
+    │   ├── j-implied-reality-causal-inference-and-unstated-truth-extraction.md
+    │   ├── k-editorial-prioritization-escalation-logic-and-intervention-strategy.md
+    │   ├── l-failure-modes-hallucinated-patterns-and-analytical-breakdown.md
+    │   └── m-analyst-workflows-research-artifacts-and-publication-systems.md
     ├── compiled-packs/
     │   ├── knowledge-investigative-news-intelligence-vol-1-a-c-foundations-of-reality-signal-and-judgment.md
     │   ├── knowledge-investigative-news-intelligence-vol-2-d-g-discovery-and-thread-expansion-domains.md
