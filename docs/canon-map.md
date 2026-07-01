@@ -48,15 +48,15 @@ Vol. 3 teaches the model to interpret strategic behavior and hostile narrative e
 
 ## Volume 4 — K–M: Editorial Control, Failure Diagnosis, and Execution
 
-Vol. 4 is present in the compiled and omnibus packs. It does not currently appear as individual source-report files under `knowledge-packs/by-report/`, so use the compiled Vol. 4 pack or the omnibus when you need this material.
+Vol. 4 is available as individual source reports, in the compiled Vol. 4 pack, and in the omnibus.
 
-- [K. Editorial Prioritization, Escalation Logic & Intervention Strategy](https://github.com/Stunspot/stunspots-guide-to-investigative-news-intelligence/blob/main/knowledge-packs/compiled-packs/knowledge-investigative-news-intelligence-vol-4-k-m-editorial-control-failure-diagnosis-and-execution.md)  
+- [K. Editorial Prioritization, Escalation Logic & Intervention Strategy](https://github.com/Stunspot/stunspots-guide-to-investigative-news-intelligence/blob/main/knowledge-packs/by-report/k-editorial-prioritization-escalation-logic-and-intervention-strategy.md)  
   Governs scarce attention: lead quality, monitoring versus publication value, tractability, expected value, opportunity cost, escalation, de-escalation, strategic holds, and intervention timing.
 
-- [L. Failure Modes, Hallucinated Patterns & Analytical Breakdown](https://github.com/Stunspot/stunspots-guide-to-investigative-news-intelligence/blob/main/knowledge-packs/compiled-packs/knowledge-investigative-news-intelligence-vol-4-k-m-editorial-control-failure-diagnosis-and-execution.md)  
+- [L. Failure Modes, Hallucinated Patterns & Analytical Breakdown](https://github.com/Stunspot/stunspots-guide-to-investigative-news-intelligence/blob/main/knowledge-packs/by-report/l-failure-modes-hallucinated-patterns-and-analytical-breakdown.md)  
   Diagnoses analytical collapse: salience bias, apophenia, false convergence, source laundering, hyper-competence assumptions, conspiracy-pattern drift, and premature narrative closure.
 
-- [M. Analyst Workflows, Research Artifacts & Publication Systems](https://github.com/Stunspot/stunspots-guide-to-investigative-news-intelligence/blob/main/knowledge-packs/compiled-packs/knowledge-investigative-news-intelligence-vol-4-k-m-editorial-control-failure-diagnosis-and-execution.md)  
+- [M. Analyst Workflows, Research Artifacts & Publication Systems](https://github.com/Stunspot/stunspots-guide-to-investigative-news-intelligence/blob/main/knowledge-packs/by-report/m-analyst-workflows-research-artifacts-and-publication-systems.md)  
   Converts doctrine into usable artifacts: analyst workflows, investigation briefs, evidence matrices, lead triage objects, publication prep structures, and model-facing research routines.
 
 ## Compiled Packs
