@@ -8,13 +8,13 @@ The `docs/` directory is only navigation and usage guidance. The actual report c
 
 Use the **compiled packs** unless you have a specific reason not to.
 
-They preserve the canon’s volume structure, keep related concepts together, and reduce upload friction for tools that perform poorly with many separate files. They also include the Vol. 4 K–M material that is not currently present as individual source-report files in `knowledge-packs/by-report/`.
+They preserve the canon’s volume structure, keep related concepts together, and reduce upload friction for tools that perform poorly with many separate files. The source-report directory also contains the individual A–M reports for precise report-level retrieval and editing.
 
 ## Pack Types
 
 | Pack | Files | Location | Best Use |
 |---|---:|---|---|
-| Source reports | 10 | `knowledge-packs/by-report/` | Precise retrieval, selective upload, report-level citation, targeted editing. |
+| Source reports | 13 | `knowledge-packs/by-report/` | Precise retrieval, selective upload, report-level citation, targeted editing. |
 | Compiled packs | 4 | `knowledge-packs/compiled-packs/` | Recommended default: grouped coverage with lower file count and full A–M sequence. |
 | Omnibus | 1 | `knowledge-packs/omnibus/` | One-file import, local archive, whole-canon search, or strong long-context/RAG systems. |
 
@@ -43,7 +43,7 @@ Choose the **omnibus** when:
 
 ## Source Reports
 
-The source reports are the canonical individual A–J units.
+The source reports are the canonical individual A–M units.
 
 - [A. Reality Models, Event Ontology & Public-Reality Mapping.md](https://github.com/Stunspot/stunspots-guide-to-investigative-news-intelligence/blob/main/knowledge-packs/by-report/a-reality-models-event-ontology-and-public-reality-mapping.md) — ground reality, public reality, event ontology, traces, evidence, silence, uncertainty, confidence, and reality projection.
 - [B. Signal, Evidence & Confidence Architecture.md](https://github.com/Stunspot/stunspots-guide-to-investigative-news-intelligence/blob/main/knowledge-packs/by-report/b-signal-evidence-and-confidence-architecture.md) — signal as relational value, the judgment stack, evidence classes, confidence ceilings, corroboration, and false convergence.
@@ -55,6 +55,9 @@ The source reports are the canonical individual A–J units.
 - [H. Power, Incentives & Strategic Actor Analysis.md](https://github.com/Stunspot/stunspots-guide-to-investigative-news-intelligence/blob/main/knowledge-packs/by-report/h-power-incentives-and-strategic-actor-analysis.md) — actors as strategic nodes, incentives, leverage, dependency, influence, control, alignment, coordination, and power mapping.
 - [I. Propaganda, Narrative Laundering & Information Operations.md](https://github.com/Stunspot/stunspots-guide-to-investigative-news-intelligence/blob/main/knowledge-packs/by-report/i-propaganda-narrative-laundering-and-information-operations.md) — operation analysis, narrative seeding/routing/uptake, credibility laundering, false plurality, agenda manipulation, and memetic weaponization.
 - [J. Implied Reality, Causal Inference, and Unstated-Truth Extraction.md](https://github.com/Stunspot/stunspots-guide-to-investigative-news-intelligence/blob/main/knowledge-packs/by-report/j-implied-reality-causal-inference-and-unstated-truth-extraction.md) — causal pressure, bounded inference, hidden knowledge states, hidden dependencies, second-order implications, contradiction resolution, and null nodes.
+- [K. Editorial Prioritization, Escalation Logic & Intervention Strategy.md](https://github.com/Stunspot/stunspots-guide-to-investigative-news-intelligence/blob/main/knowledge-packs/by-report/k-editorial-prioritization-escalation-logic-and-intervention-strategy.md) — editorial importance, scarce-attention governance, lead quality, escalation logic, intervention choices, and kill criteria.
+- [L. Failure Modes, Hallucinated Patterns & Analytical Breakdown.md](https://github.com/Stunspot/stunspots-guide-to-investigative-news-intelligence/blob/main/knowledge-packs/by-report/l-failure-modes-hallucinated-patterns-and-analytical-breakdown.md) — repetition versus corroboration, salience versus significance, false coherence, analytical contamination, and failure diagnosis.
+- [M. Analyst Workflows, Research Artifacts & Publication Systems.md](https://github.com/Stunspot/stunspots-guide-to-investigative-news-intelligence/blob/main/knowledge-packs/by-report/m-analyst-workflows-research-artifacts-and-publication-systems.md) — workflow architecture, durable research artifacts, handoffs, publication systems, and execution discipline.
 
 ## Compiled Packs
 
